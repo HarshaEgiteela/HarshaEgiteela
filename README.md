@@ -3,7 +3,7 @@
 
 
 # 🌐 Socials:
-<a href="https://linkedin.com/in/harsha egiteela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha egiteela" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/harsha-egiteela-490458320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha egiteela" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/harshaegiteela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsha egiteela" height="30" width="40" /></a>
 </p>
 
