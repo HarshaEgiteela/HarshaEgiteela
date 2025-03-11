@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a freshman in SRMIST RMP.<br>🌱 I’m currently learning HTML and CSS for frontend development<br> 🚘 Petrolhead
+🔭 I’m a freshman in SRMIST RMP.<br>🌱 I’m currently learning frontend development<br> 🚘 Petrolhead
 
 
 # 🌐 Socials:
