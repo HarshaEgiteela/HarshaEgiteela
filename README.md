@@ -62,6 +62,10 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![GitHub Contributions](https://github.com/HarshaEgiteela/HarshaEgiteela/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=HarshaEgiteela&theme=onedark&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=HarshaEgiteela&theme=onedark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaEgiteela&theme=onedark&hide_border=true&layout=compact)
